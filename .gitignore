@@ -1,1 +1,6 @@
-/vendor
+
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+
